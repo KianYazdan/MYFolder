@@ -5,8 +5,8 @@
  */
 .container {
   width: 100%;
-  padding-left: auto;
-  padding-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .row {
   display: flex;
