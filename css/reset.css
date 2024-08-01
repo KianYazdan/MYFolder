@@ -25,6 +25,7 @@ html {
   -webkit-text-size-adjust: none;
 }
 body {
+  font-size: 16px;
   text-align: right;
   -webkit-font-smoothing: antialiased;
 }
