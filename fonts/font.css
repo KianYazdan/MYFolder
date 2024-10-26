@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "IRANYekanXVF";
+  src: url("IRANYekanXVF.woff2") format("woff2"),
+       url("IRANYekanXVF.woff") format("woff-variations");
+  font-display: swap;
+  font-weight: 100 900;
+}
